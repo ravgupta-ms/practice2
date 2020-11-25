@@ -1,0 +1,10 @@
+{
+	"name": "TrainingKeyVaultConfiguration",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://ravgupta2vault.vault.azure.net/"
+		}
+	}
+}
